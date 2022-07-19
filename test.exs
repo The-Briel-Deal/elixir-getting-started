@@ -1,1 +1,2 @@
-IO.puts("Hello world from I love dogs")
+person = IO.gets "What is your name?"
+IO.puts "Hello #{person}!"
